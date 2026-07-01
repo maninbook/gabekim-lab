@@ -1,0 +1,48 @@
+date,coach,comp,venue,gf,ga,result,opponent,poss,formation
+2019-09-10,Bento,WCQ,Away,2,0,W,Turkmenistan,,4-1-4-1
+2019-10-10,Bento,WCQ,Home,8,0,W,Sri Lanka,,4-1-4-1
+2019-10-15,Bento,WCQ,Away,0,0,D,Korea DPR,,4-1-3-2
+2019-11-14,Bento,WCQ,Away,0,0,D,Lebanon,,4-2-2-2
+2021-06-05,Bento,WCQ,Home,5,0,W,Turkmenistan,,3-4-3
+2021-06-09,Bento,WCQ,Away,5,0,W,Sri Lanka,,4-1-4-1
+2021-06-13,Bento,WCQ,Home,2,1,W,Lebanon,,4-2-3-1
+2021-09-02,Bento,WCQ,Home,0,0,D,Iraq,,4-1-4-1
+2021-09-07,Bento,WCQ,Home,1,0,W,Lebanon,,4-1-4-1
+2021-10-07,Bento,WCQ,Home,2,1,W,Syria,,4-2-3-1
+2021-10-12,Bento,WCQ,Away,1,1,D,IR Iran,,4-1-4-1
+2021-11-11,Bento,WCQ,Home,1,0,W,UAE,,4-1-4-1
+2021-11-16,Bento,WCQ,Away,3,0,W,Iraq,,4-2-3-1
+2022-01-15,Bento,Friendly,Neutral,5,1,W,Iceland,,4-2-3-1
+2022-01-21,Bento,Friendly,Neutral,4,0,W,Moldova,,4-2-3-1
+2022-01-27,Bento,WCQ,Away,1,0,W,Lebanon,,4-1-3-2
+2022-02-01,Bento,WCQ,Neutral,2,0,W,Syria,,4-1-3-2
+2022-03-24,Bento,WCQ,Home,2,0,W,IR Iran,,4-1-4-1
+2022-03-29,Bento,WCQ,Away,0,1,L,UAE,,4-1-3-2
+2022-06-02,Bento,Friendly,Neutral,1,5,L,Brazil,,4-1-4-1
+2022-06-06,Bento,Friendly,Neutral,2,0,W,Chile,,4-4-1-1
+2022-06-10,Bento,Friendly,Neutral,2,2,D,Paraguay,,4-1-4-1
+2022-06-14,Bento,Friendly,Neutral,4,1,W,Egypt,,4-1-4-1
+2022-09-23,Bento,Friendly,Neutral,2,2,D,Costa Rica,,4-1-4-1
+2022-09-27,Bento,Friendly,Neutral,1,0,W,Cameroon,,4-4-1-1
+2022-11-11,Bento,Friendly,Neutral,1,0,W,Iceland,,4-2-2-2
+2022-11-24,Bento,WorldCup,Neutral,0,0,D,Uruguay,44,4-2-3-1
+2022-11-28,Bento,WorldCup,Neutral,2,3,L,Ghana,63,4-2-3-1
+2022-12-02,Bento,WorldCup,Neutral,2,1,W,Portugal,39,4-1-4-1
+2022-12-05,Bento,WorldCup,Neutral,1,4,L,Brazil,47,4-2-2-2
+2024-09-05,Hong,WCQ,Home,0,0,D,Palestine,75,4-2-3-1
+2024-09-10,Hong,WCQ,Away,3,1,W,Oman,66,4-2-3-1
+2024-10-10,Hong,WCQ,Away,2,0,W,Jordan,75,4-2-3-1
+2024-10-15,Hong,WCQ,Home,3,2,W,Iraq,76,4-2-3-1
+2024-11-14,Hong,WCQ,Away,3,1,W,Kuwait,75,4-2-3-1
+2024-11-19,Hong,WCQ,Neutral,1,1,D,Palestine,74,4-2-3-1
+2025-03-20,Hong,WCQ,Home,1,1,D,Oman,63,4-2-3-1
+2025-03-25,Hong,WCQ,Home,1,1,D,Jordan,75,4-2-3-1
+2025-06-05,Hong,WCQ,Away,2,0,W,Iraq,76,4-2-3-1
+2025-06-10,Hong,WCQ,Home,4,0,W,Kuwait,74,4-2-3-1
+2026-03-28,Hong,Friendly,Neutral,0,4,L,Cote d'Ivoire,,3-4-3
+2026-03-31,Hong,Friendly,Away,0,1,L,Austria,,3-4-3
+2026-05-30,Hong,Friendly,Neutral,5,0,W,Trinidad & Tobago,,3-4-3
+2026-06-03,Hong,Friendly,Neutral,1,0,W,El Salvador,,3-4-3
+2026-06-11,Hong,WorldCup,Neutral,2,1,W,Czechia,62,3-4-3
+2026-06-18,Hong,WorldCup,Neutral,0,1,L,Mexico,58,3-4-3
+2026-06-24,Hong,WorldCup,Neutral,0,1,L,South Africa,69,3-4-3
