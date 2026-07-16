@@ -7,3 +7,4 @@
 |------|----|
 | [`bento-vs-hong/`](./bento-vs-hong) | 벤투 vs 홍명보: 데이터로 본 한국 대표팀 전술 |
 | [`human-psychophysics/`](./human-psychophysics) | 인간 정신물리학: 개념 그래프 코드 |
+| [`pd14-cortical-microcircuit/`](./pd14-cortical-microcircuit) | PD14 대뇌피질 마이크로회로 축소 재구현 |
